@@ -1,0 +1,108 @@
+
+
+
+*
+
+ {
+
+	box-sizing: border-box;
+
+ }
+
+
+.TEXT
+
+   {
+
+	  font-size: 60px;
+
+    text-align: center;
+
+
+         color:dark_blue;
+
+    font-weight: 700;
+    
+
+   }
+
+td
+
+
+ {
+
+
+width: 200px;
+
+height: 200px;
+
+
+ }
+
+
+.Yukseklik
+
+
+  {
+
+
+border-top: 20px solid blue
+
+
+  }
+
+
+.Alcaqliq
+
+
+   {
+
+
+border-bottom: 20px solid blue
+
+
+     }
+
+
+.UZUN
+
+
+{
+
+
+	border-left: 20px solid blue;
+
+	border-right: 20px solid blue;
+
+
+
+}
+
+
+.enine
+
+
+{
+
+
+	border-bottom: 20px solid blue;
+
+
+}
+
+
+table
+
+
+{
+
+
+	/*border-collapse: separate;*/
+
+    border-spacing: 0px;
+
+    text-align: MERKEZ;
+
+
+}
+
